@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let pk = 0;
 
     const url = 'http://35.173.238.210/api/carRental/';
-    const token = "Token  3498427d7cfd02d2e974f8b1ced47888ee27865c";
+    const token = "Token  YourToken";
 
     function httpPost(theUrl, data) {
         var xmlHttp = new XMLHttpRequest();
